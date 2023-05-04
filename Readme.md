@@ -8,5 +8,5 @@ To run the code, run the following command.
 python main.py --mode eval --data_path data/test_values_4_19.csv
 ```
 
-You can download the encoded test values from the below link
-https://drive.google.com/file/d/1wkjoHazd-0uOcBDegYb7-jUBqiSYEiDl/view?usp=share_link
+Please find the train and test data in the below link
+https://drive.google.com/drive/folders/17dBTgSreL_pQxuG1sm-LiqXgqx663Mgi?usp=share_link
